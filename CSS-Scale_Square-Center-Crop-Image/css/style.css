@@ -1,0 +1,11 @@
+.thumb {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+    border:2px solid #ddd;
+    border-radius: 5px;
+    background-position: center center;
+    background-size: cover;
+    }
